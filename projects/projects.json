@@ -1,4 +1,4 @@
-{
+﻿{
   "featured": "YouTube on PS3",
   "projects": [
   {
@@ -3647,7 +3647,27 @@
         "Static",
         "Responsive"
       ]
+    },
+    {
+      "name": "Biziboard - Real Time Analytics Dashboard",
+      "thumb": "biziboard/thumb.png",
+      "desc": "A real time social media and custom data aggregation dashboard with a fluent interface.",
+      "url": "https://www.biziboard.com",
+      "info": "https://www.biziboard.com",
+      "submitter": "marcofoltran",
+      "submissionDate": "2015-02-05",
+      "tags": [
+        "Production",
+        "Interactive",
+        "Business",
+        "Social Media",
+        "Bootstrap",
+        "Responsive",
+	"Weather",
+	"RSS",
+	"REST",
+	"CSV"
+      ]
     }
-
   ]
 }
